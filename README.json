@@ -1,0 +1,365 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unix history",
+          "description": "Git repository with 46 years of Unix history evolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-05T16:53:18Z",
+            "owner": "dspinellis",
+            "repo": "unix-history-repo",
+            "stars": 7247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Defects4J",
+          "description": "Collection of 395 reproducible bugs collected with the goal of advancing software testing research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-04-07T08:58:28Z",
+            "owner": "rjust",
+            "repo": "defects4j",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Kernel 4.21 Call Graphs",
+          "description": "The Linux Kernel 4.21 Call Graphs produced using CScout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:41:48Z",
+            "owner": "cscout-project",
+            "repo": "cscout-engine",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mzdata",
+          "description": "Multi-extract and multi-level dataset of Mozilla issue tracking history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-14T17:46:36Z",
+            "owner": "jxshin",
+            "repo": "mzdata",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCL Expressions on GitHub",
+          "description": "Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-21T04:44:39Z",
+            "owner": "tue-mdse",
+            "repo": "ocl-dataset",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Findbugs-maven",
+          "description": "Set of FindBugs reports for the Java projects of the Maven repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-07-07T06:59:35Z",
+            "owner": "istlab",
+            "repo": "maven_bug_catalog",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-miner",
+          "description": "The dataset contains the analysis results of 5 open source software quality tools eslint, escomplex, nsp, jsinspect and sonarjs for 2000 popular (in terms of stars and downloads) npm packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-21T21:44:18Z",
+            "owner": "AuthEceSoftEng",
+            "repo": "msr-2018-npm-miner",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maven metrics",
+          "description": "Collection of software complexity & sizing metrics for the Maven Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2015-05-16T21:59:39Z",
+            "owner": "bkarak",
+            "repo": "data_msr2015",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data Sets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyDriller",
+          "description": "Python Framework to analyse Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T12:35:29Z",
+            "owner": "ishepard",
+            "repo": "pydriller",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RefactoringMiner",
+          "description": "Library/API for detection of refactorings in changes of Java code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:07:25Z",
+            "owner": "tsantalis",
+            "repo": "RefactoringMiner",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perceval",
+          "description": "Fetch repository data from tens of back-ends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T16:17:47Z",
+            "owner": "chaoss",
+            "repo": "grimoirelab-perceval",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astminer",
+          "description": "Library and tool for mining of path-based representations of code and other data derived from ASTs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-11-07T15:15:09Z",
+            "owner": "JetBrains-Research",
+            "repo": "astminer",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DesigniteJava",
+          "description": "Compute source code metrics and detect a variety of implementation and design smells for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-21T21:41:00Z",
+            "owner": "tushartushar",
+            "repo": "DesigniteJava",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reaper",
+          "description": "Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is engineered.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-27T19:24:26Z",
+            "owner": "RepoReapers",
+            "repo": "reaper",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coming",
+          "description": "A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-13T10:47:12Z",
+            "owner": "SpoonLabs",
+            "repo": "coming",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qmcalc",
+          "description": "Calculate quality metrics from C source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-14T07:53:29Z",
+            "owner": "dspinellis",
+            "repo": "cqmetrics",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulData7",
+          "description": "Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-01-11T19:28:48Z",
+            "owner": "electricalwind",
+            "repo": "data7",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppeteer",
+          "description": "Detect configuration smells in Puppet code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-26T23:27:35Z",
+            "owner": "tushartushar",
+            "repo": "Puppeteer",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maven-miner",
+          "description": "Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a Neo4j Graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-01T23:03:44Z",
+            "owner": "diverse-project",
+            "repo": "maven-miner",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buckwheat",
+          "description": "Multi-language tokenizer for extracting identifiers from source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-27T11:23:05Z",
+            "owner": "JetBrains-Research",
+            "repo": "buckwheat",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diggit",
+          "description": "Agile Ruby Tool to analyze Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-09-07T12:39:46Z",
+            "owner": "jrfaller",
+            "repo": "diggit",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitEvo",
+          "description": "Code evolution analysis for Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-16T23:37:55Z",
+            "owner": "andrehora",
+            "repo": "gitevo",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DbDeo",
+          "description": "Extract embedded SQL statements and detect database schema smells.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-24T08:45:44Z",
+            "owner": "tushartushar",
+            "repo": "DbDeo",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptOSS",
+          "description": "Mine GitHub activity and market cap data for cryptocurrency projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2019-07-04T08:41:56Z",
+            "owner": "rvantonder",
+            "repo": "CryptOSS",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "To the extent possible under law, Diomidis Spinellis has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:36.339Z",
+    "original_repository": "dspinellis/awesome-msr",
+    "original_repository_sha": "ac89acae0eb1ac1265903038305433ad0bf8b360",
+    "enhanced_repository": "enhansome/enhansome-msr",
+    "enhanced_repository_description": null,
+    "title": "Awesome Empirical Software Engineering with stars"
+  }
+}
