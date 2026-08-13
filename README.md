@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,059 | 🐛 100 | 📅 2026-06-30.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,249 | 🐛 100 | 📅 2026-06-30.
 
 ## Contents
 
@@ -36,7 +36,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 * [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,247 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 987 | 🐛 56 | 🌐 Perl | 📅 2026-04-07 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
-* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 232 | 🐛 12 | 🌐 C++ | 📅 2026-08-10.
+* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 232 | 🐛 12 | 🌐 C++ | 📅 2026-08-13.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
 * [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-11-21 - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2015-07-07 - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
@@ -68,7 +68,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 968 | 🐛 11 | 🌐 Python | 📅 2026-07-26 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 503 | 🐛 28 | 🌐 Java | 📅 2026-08-12 - Library/API for detection of refactorings in changes of Java code.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 503 | 🐛 29 | 🌐 Java | 📅 2026-08-13 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 324 | 🐛 41 | 🌐 Python | 📅 2026-08-07 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 194 | 🐛 18 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
@@ -77,7 +77,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 * [qmcalc](https://github.com/dspinellis/cqmetrics) ⭐ 69 | 🐛 4 | 🌐 C++ | 📅 2022-06-14 - Calculate quality metrics from C source code.
 * [VulData7](https://github.com/electricalwind/data7) ⭐ 45 | 🐛 4 | 🌐 Java | 📅 2019-01-11 - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 * [Puppeteer](https://github.com/tushartushar/Puppeteer) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2020-09-26 - Detect configuration smells in Puppet code.
-* [Maven-miner](https://github.com/diverse-project/maven-miner) ⭐ 33 | 🐛 14 | 🌐 Java | 📅 2022-09-01 - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
+* [Maven-miner](https://github.com/diverse-project/maven-miner) ⭐ 34 | 🐛 14 | 🌐 Java | 📅 2022-09-01 - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
 * [buckwheat](https://github.com/JetBrains-Research/buckwheat) ⭐ 24 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-04-27 - Multi-language tokenizer for extracting identifiers from source code.
 * [Diggit](https://github.com/jrfaller/diggit) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2021-09-07 - Agile Ruby Tool to analyze Git repositories.
 * [GitEvo](https://github.com/andrehora/gitevo) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-11-16 - Code evolution analysis for Git repositories.
