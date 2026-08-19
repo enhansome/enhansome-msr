@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21994526,
             "language": "Assembly",
             "last_commit": "2026-01-05T16:53:18Z",
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7240
+            "stars": 7241
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34107553,
             "language": "Perl",
             "last_commit": "2026-04-07T08:58:28Z",
             "owner": "rjust",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49774035,
             "language": "C++",
-            "last_commit": "2026-08-18T10:14:01Z",
+            "last_commit": "2026-08-19T09:16:18Z",
             "owner": "cscout-project",
             "repo": "cscout-engine",
             "stars": 232
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47383735,
             "language": "Python",
             "last_commit": "2016-05-14T17:46:36Z",
             "owner": "jxshin",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84544515,
             "language": "Java",
             "last_commit": "2022-11-21T04:44:39Z",
             "owner": "tue-mdse",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20015114,
             "language": "Python",
             "last_commit": "2015-07-07T06:59:35Z",
             "owner": "istlab",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116394894,
             "language": "JavaScript",
             "last_commit": "2020-04-21T21:44:18Z",
             "owner": "AuthEceSoftEng",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28204238,
             "language": "TeX",
             "last_commit": "2015-05-16T21:59:39Z",
             "owner": "bkarak",
@@ -119,7 +127,7 @@
       "title": "Data Sets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126200813,
             "language": "Python",
             "last_commit": "2026-07-26T12:35:29Z",
             "owner": "ishepard",
@@ -142,8 +151,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43368199,
             "language": "Java",
-            "last_commit": "2026-08-18T12:35:05Z",
+            "last_commit": "2026-08-19T12:04:37Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 503
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47415120,
             "language": "Python",
             "last_commit": "2026-08-07T16:17:47Z",
             "owner": "chaoss",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161813380,
             "language": "Kotlin",
             "last_commit": "2025-11-07T15:15:09Z",
             "owner": "JetBrains-Research",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76462410,
             "language": "Java",
             "last_commit": "2025-03-21T21:41:00Z",
             "owner": "tushartushar",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31824415,
             "language": "Python",
             "last_commit": "2020-09-27T19:24:26Z",
             "owner": "RepoReapers",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43500434,
             "language": "Java",
             "last_commit": "2024-11-13T10:47:12Z",
             "owner": "SpoonLabs",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22557991,
             "language": "C++",
             "last_commit": "2022-06-14T07:53:29Z",
             "owner": "dspinellis",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118901262,
             "language": "Java",
             "last_commit": "2019-01-11T19:28:48Z",
             "owner": "electricalwind",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49631024,
             "language": "Python",
             "last_commit": "2020-09-26T23:27:35Z",
             "owner": "tushartushar",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142314694,
             "language": "Java",
             "last_commit": "2022-09-01T23:03:44Z",
             "owner": "diverse-project",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264924986,
             "language": "Jupyter Notebook",
             "last_commit": "2022-04-27T11:23:05Z",
             "owner": "JetBrains-Research",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25813952,
             "language": "Ruby",
             "last_commit": "2021-09-07T12:39:46Z",
             "owner": "jrfaller",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954898238,
             "language": "Python",
             "last_commit": "2025-11-16T23:37:55Z",
             "owner": "andrehora",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76452703,
             "language": "Python",
             "last_commit": "2018-01-24T08:45:44Z",
             "owner": "tushartushar",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169338876,
             "language": "OCaml",
             "last_commit": "2019-07-04T08:41:56Z",
             "owner": "rvantonder",
@@ -347,16 +371,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "To the extent possible under law, Diomidis Spinellis has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:52:52.120Z",
+    "last_updated": "2026-08-19T12:42:52.912Z",
     "original_repository": "dspinellis/awesome-msr",
+    "original_repository_id": 58886472,
     "original_repository_sha": "ac89acae0eb1ac1265903038305433ad0bf8b360",
     "enhanced_repository": "enhansome/enhansome-msr",
     "enhanced_repository_description": null,
