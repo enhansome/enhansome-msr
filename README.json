@@ -153,7 +153,7 @@
             "archived": false,
             "id": 43368199,
             "language": "Java",
-            "last_commit": "2026-08-23T23:17:57Z",
+            "last_commit": "2026-08-24T14:49:22Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 504
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:48.495Z",
+    "last_updated": "2026-08-24T15:07:01.370Z",
     "original_repository": "dspinellis/awesome-msr",
     "original_repository_id": 58886472,
     "original_repository_sha": "ac89acae0eb1ac1265903038305433ad0bf8b360",
