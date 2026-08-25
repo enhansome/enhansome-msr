@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 | 🐛 106 | 📅 2026-08-21.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,805 | 🐛 106 | 📅 2026-08-21.
 
 ## Contents
 
@@ -67,7 +67,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Tools
 
-* [PyDriller](https://github.com/ishepard/pydriller) ⭐ 965 | 🐛 11 | 🌐 Python | 📅 2026-07-26 - Python Framework to analyse Git repositories.
+* [PyDriller](https://github.com/ishepard/pydriller) ⭐ 965 | 🐛 12 | 🌐 Python | 📅 2026-07-26 - Python Framework to analyse Git repositories.
 * [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 504 | 🐛 26 | 🌐 Java | 📅 2026-08-25 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 324 | 🐛 41 | 🌐 Python | 📅 2026-08-07 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
