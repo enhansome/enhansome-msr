@@ -15,7 +15,7 @@
             "last_commit": "2026-01-05T16:53:18Z",
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7249
+            "stars": 7250
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 49774035,
             "language": "C++",
-            "last_commit": "2026-08-19T09:16:18Z",
+            "last_commit": "2026-08-26T06:21:57Z",
             "owner": "cscout-project",
             "repo": "cscout-engine",
             "stars": 232
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 43368199,
             "language": "Java",
-            "last_commit": "2026-08-25T00:57:59Z",
+            "last_commit": "2026-08-26T12:42:42Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 504
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:59:26.434Z",
+    "last_updated": "2026-08-26T14:01:08.235Z",
     "original_repository": "dspinellis/awesome-msr",
     "original_repository_id": 58886472,
     "original_repository_sha": "ac89acae0eb1ac1265903038305433ad0bf8b360",
