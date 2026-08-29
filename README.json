@@ -70,7 +70,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-27T11:38:37Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "cscout-project",
             "repo": "cscout-engine",
             "stars": 233,
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:29:25Z",
+            "last_commit": "2026-08-29T10:06:57Z",
             "open_issues": 25,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:07.000Z",
+    "last_updated": "2026-08-29T17:05:24.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
