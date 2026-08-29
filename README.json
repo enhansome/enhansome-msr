@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuous Unix commit history from 1970 until today",
+            "homepage": null,
             "id": 21994526,
             "language": "Assembly",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-05T16:53:18Z",
+            "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7251
+            "stars": 7251,
+            "topics": [
+              "bell-labs",
+              "berkeley",
+              "evolution",
+              "freebsd",
+              "history",
+              "snapshot",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -26,12 +39,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research",
+            "homepage": null,
             "id": 34107553,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2026-04-07T08:58:28Z",
+            "open_issues": 56,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 994
+            "stars": 994,
+            "topics": [
+              "defects4j",
+              "java",
+              "perl"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -42,12 +64,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C code refactoring browser",
+            "homepage": "http://www.spinellis.gr/cscout",
             "id": 49774035,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T11:38:37Z",
+            "open_issues": 12,
             "owner": "cscout-project",
             "repo": "cscout-engine",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "c",
+              "c-preprocessor",
+              "call-graph",
+              "refactoring",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History",
+            "homepage": null,
             "id": 47383735,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-14T17:46:36Z",
+            "open_issues": 0,
             "owner": "jxshin",
             "repo": "mzdata",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -74,12 +112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Data Set of OCL Expressions on GitHub",
+            "homepage": null,
             "id": 84544515,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-11-21T04:44:39Z",
+            "open_issues": 0,
             "owner": "tue-mdse",
             "repo": "ocl-dataset",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -90,12 +133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Bug Catalog of the Maven Ecosystem",
+            "homepage": null,
             "id": 20015114,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-07-07T06:59:35Z",
+            "open_issues": 0,
             "owner": "istlab",
             "repo": "maven_bug_catalog",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -106,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 116394894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-21T21:44:18Z",
+            "open_issues": 1,
             "owner": "AuthEceSoftEng",
             "repo": "msr-2018-npm-miner",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -122,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating the Blueprints of the Java Ecosystem (MSR Data Paper 2015)",
+            "homepage": null,
             "id": 28204238,
             "language": "TeX",
+            "license": null,
             "last_commit": "2015-05-16T21:59:39Z",
+            "open_issues": 1,
             "owner": "bkarak",
             "repo": "data_msr2015",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         }
@@ -144,12 +202,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Framework to analyse Git repositories",
+            "homepage": "http://pydriller.readthedocs.io/en/latest/",
             "id": 126200813,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-26T12:35:29Z",
+            "open_issues": 12,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 965
+            "stars": 965,
+            "topics": [
+              "git",
+              "mining-software-repositories",
+              "msr",
+              "python",
+              "python-framework",
+              "python3",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -160,12 +231,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 43368199,
             "language": "Java",
-            "last_commit": "2026-08-28T17:08:26Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:29:25Z",
+            "open_issues": 25,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 504
+            "stars": 504,
+            "topics": [
+              "refactoring"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -176,12 +254,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send Sir Perceval on a quest to retrieve and gather data from software repositories.",
+            "homepage": "http://perceval.readthedocs.io/",
             "id": 47415120,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-07T16:17:47Z",
+            "open_issues": 41,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "data-fetching",
+              "data-mining",
+              "data-sources",
+              "grimoirelab",
+              "hacktoberfest",
+              "perceval",
+              "python",
+              "software-analytics"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -192,12 +284,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library for mining of path-based representations of code (and more)",
+            "homepage": null,
             "id": 161813380,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-11-07T15:15:09Z",
+            "open_issues": 1,
             "owner": "JetBrains-Research",
             "repo": "astminer",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "antlr",
+              "code2vec",
+              "mining"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -208,12 +309,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detects smells and computes metrics of Java code",
+            "homepage": "https://www.designite-tools.com/products-dj",
             "id": 76462410,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-21T21:41:00Z",
+            "open_issues": 18,
             "owner": "tushartushar",
             "repo": "DesigniteJava",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "code-smells",
+              "design-smells",
+              "java",
+              "metrics",
+              "object-oriented-metrics",
+              "technical-debt"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -224,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calculate the score of a repository based on best engineering practices.",
+            "homepage": "https://reporeapers.github.io/",
             "id": 31824415,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-27T19:24:26Z",
+            "open_issues": 6,
             "owner": "RepoReapers",
             "repo": "reaper",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -240,12 +358,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for mining commits  from Git repositories and diffs to automatically extract code change pattern instances and features with ast analysis ",
+            "homepage": "https://hal.inria.fr/hal-00861883/file/paper-short.pdf",
             "id": 43500434,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-11-13T10:47:12Z",
+            "open_issues": 27,
             "owner": "SpoonLabs",
             "repo": "coming",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "ast-analysis",
+              "inria",
+              "kth",
+              "mining-software-repositories"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -256,12 +384,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C Quality Metrics",
+            "homepage": null,
             "id": 22557991,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-14T07:53:29Z",
+            "open_issues": 4,
             "owner": "dspinellis",
             "repo": "cqmetrics",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "c",
+              "metrics",
+              "quality-metrics"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -272,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vulnerability patch gathering tool",
+            "homepage": null,
             "id": 118901262,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-11T19:28:48Z",
+            "open_issues": 4,
             "owner": "electricalwind",
             "repo": "data7",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -288,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smell detection tool for Puppet code",
+            "homepage": null,
             "id": 49631024,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-26T23:27:35Z",
+            "open_issues": 0,
             "owner": "tushartushar",
             "repo": "Puppeteer",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -304,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This projects mines maven central and creates a global dependency graph",
+            "homepage": null,
             "id": 142314694,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-09-01T23:03:44Z",
+            "open_issues": 14,
             "owner": "diverse-project",
             "repo": "maven-miner",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -320,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-language tokenizer for extracting identifiers from source code.",
+            "homepage": null,
             "id": 264924986,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-27T11:23:05Z",
+            "open_issues": 2,
             "owner": "JetBrains-Research",
             "repo": "buckwheat",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -336,12 +493,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agile tool to analyze Git repositories",
+            "homepage": "https://github.com/jrfaller/diggit/wiki",
             "id": 25813952,
             "language": "Ruby",
+            "license": "LGPL-3.0",
             "last_commit": "2021-09-07T12:39:46Z",
+            "open_issues": 1,
             "owner": "jrfaller",
             "repo": "diggit",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "repository-mining",
+              "software-en"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -352,12 +517,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code evolution analysis for Git repositories",
+            "homepage": null,
             "id": 954898238,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-16T23:37:55Z",
+            "open_issues": 0,
             "owner": "andrehora",
             "repo": "gitevo",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "code-analysis",
+              "git",
+              "metrics",
+              "msr",
+              "python",
+              "software-evolution",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -368,12 +546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database smell detector",
+            "homepage": null,
             "id": 76452703,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-01-24T08:45:44Z",
+            "open_issues": 0,
             "owner": "tushartushar",
             "repo": "DbDeo",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         },
@@ -384,12 +567,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect and view OSS cryptocurrency development.",
+            "homepage": "https://rvantonder.github.io/CryptOSS",
             "id": 169338876,
             "language": "OCaml",
+            "license": "MIT",
             "last_commit": "2019-07-04T08:41:56Z",
+            "open_issues": 2,
             "owner": "rvantonder",
             "repo": "CryptOSS",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cryptocurrency",
+              "github",
+              "mining-software-repositories",
+              "open-source-software",
+              "software-metrics"
+            ]
           },
           "first_seen": "2026-08-28T23:00:07.064Z"
         }
@@ -398,15 +592,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:00:07.064Z",
+    "last_updated": "2026-08-29T04:43:07.000Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated repository of software engineering repository mining data sets",
+      "homepage": null,
       "id": 58886472,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-01T18:11:43Z",
+      "open_issues": 0,
       "owner": "dspinellis",
       "repo": "awesome-msr",
-      "stars": 489
+      "stars": 489,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dataset",
+        "ghtorrent",
+        "mining",
+        "msr"
+      ]
     },
     "original_repository_sha": "ac89acae0eb1ac1265903038305433ad0bf8b360",
     "enhanced_repository": "enhansome/enhansome-msr",
