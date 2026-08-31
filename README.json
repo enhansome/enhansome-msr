@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7251,
+            "stars": 7252,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -73,7 +73,7 @@
             "open_issues": 14,
             "owner": "cscout-project",
             "repo": "cscout-engine",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "c",
               "c-preprocessor",
@@ -211,7 +211,7 @@
             "open_issues": 12,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,8 +236,8 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:36:20Z",
-            "open_issues": 25,
+            "last_commit": "2026-08-31T14:24:57Z",
+            "open_issues": 26,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 504,
@@ -318,7 +318,7 @@
             "open_issues": 18,
             "owner": "tushartushar",
             "repo": "DesigniteJava",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "code-smells",
               "design-smells",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:23:57.717Z",
+    "last_updated": "2026-08-31T19:29:15.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
@@ -604,7 +604,7 @@
       "open_issues": 0,
       "owner": "dspinellis",
       "repo": "awesome-msr",
-      "stars": 489,
+      "stars": 490,
       "topics": [
         "awesome",
         "awesome-list",
