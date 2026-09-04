@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7254,
+            "stars": 7256,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -69,7 +69,7 @@
             "id": 49774035,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T16:43:26Z",
+            "last_commit": "2026-09-04T07:23:26Z",
             "open_issues": 14,
             "owner": "cscout-project",
             "repo": "cscout-engine",
@@ -207,7 +207,7 @@
             "id": 126200813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T10:54:55Z",
+            "last_commit": "2026-09-04T07:06:45Z",
             "open_issues": 10,
             "owner": "ishepard",
             "repo": "pydriller",
@@ -236,11 +236,11 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-03T10:38:04Z",
+            "last_commit": "2026-09-04T14:10:05Z",
             "open_issues": 26,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 505,
+            "stars": 507,
             "topics": [
               "refactoring"
             ]
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:01:33.963Z",
+    "last_updated": "2026-09-04T16:49:57.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
