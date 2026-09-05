@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:10:05Z",
+            "last_commit": "2026-09-05T14:56:16Z",
             "open_issues": 26,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:49:57.930Z",
+    "last_updated": "2026-09-05T15:59:37.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
