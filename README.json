@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7259,
+            "stars": 7262,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:36:43Z",
+            "last_commit": "2026-09-17T14:23:58Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -259,8 +259,8 @@
             "id": 47415120,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T12:59:02Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-17T11:45:30Z",
+            "open_issues": 40,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
             "stars": 324,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:36:18.140Z",
+    "last_updated": "2026-09-17T17:36:16.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
