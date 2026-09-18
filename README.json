@@ -45,10 +45,10 @@
             "language": "Perl",
             "license": "MIT",
             "last_commit": "2026-04-07T08:58:28Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "defects4j",
               "java",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-17T14:23:58Z",
+            "last_commit": "2026-09-18T11:23:39Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:36:16.835Z",
+    "last_updated": "2026-09-18T17:03:27.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
@@ -604,7 +604,7 @@
       "open_issues": 0,
       "owner": "dspinellis",
       "repo": "awesome-msr",
-      "stars": 491,
+      "stars": 492,
       "topics": [
         "awesome",
         "awesome-list",
