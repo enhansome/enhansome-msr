@@ -211,7 +211,7 @@
             "open_issues": 11,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-18T11:23:39Z",
+            "last_commit": "2026-09-19T13:34:44Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:03:27.122Z",
+    "last_updated": "2026-09-19T16:24:13.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
@@ -604,7 +604,7 @@
       "open_issues": 0,
       "owner": "dspinellis",
       "repo": "awesome-msr",
-      "stars": 492,
+      "stars": 493,
       "topics": [
         "awesome",
         "awesome-list",
