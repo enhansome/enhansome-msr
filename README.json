@@ -207,8 +207,8 @@
             "id": 126200813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T12:44:00Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-26T13:52:00Z",
+            "open_issues": 8,
             "owner": "ishepard",
             "repo": "pydriller",
             "stars": 966,
@@ -236,11 +236,11 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-25T17:12:52Z",
+            "last_commit": "2026-09-26T16:16:29Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "refactoring"
             ]
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:55:24.995Z",
+    "last_updated": "2026-09-26T17:06:14.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
