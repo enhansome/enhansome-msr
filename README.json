@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-27T16:30:54Z",
+            "last_commit": "2026-09-28T15:11:49Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -260,7 +260,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T21:39:26Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
             "stars": 324,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:41:51.959Z",
+    "last_updated": "2026-09-28T20:05:48.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",

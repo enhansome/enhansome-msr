@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,360 | 🐛 106 | 📅 2026-09-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,942 | 🐛 106 | 📅 2026-09-02.
 
 ## Contents
 
@@ -68,8 +68,8 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 966 | 🐛 8 | 🌐 Python | 📅 2026-09-26 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 512 | 🐛 12 | 🌐 Java | 📅 2026-09-27 - Library/API for detection of refactorings in changes of Java code.
-* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 324 | 🐛 41 | 🌐 Python | 📅 2026-09-21 - Fetch repository data from tens of back-ends.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 512 | 🐛 12 | 🌐 Java | 📅 2026-09-28 - Library/API for detection of refactorings in changes of Java code.
+* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 324 | 🐛 40 | 🌐 Python | 📅 2026-09-21 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 195 | 🐛 18 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
 * [reaper](https://github.com/RepoReapers/reaper) ⭐ 118 | 🐛 6 | 🌐 Python | 📅 2020-09-27 - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
@@ -113,4 +113,4 @@ To the extent possible under law, [Diomidis Spinellis](http://www.spinellis.gr) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
