@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,019 | 🐛 107 | 📅 2026-09-02.
 
 ## Contents
 
