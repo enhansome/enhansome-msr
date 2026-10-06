@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7272,
+            "stars": 7273,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:16.532Z",
+    "last_updated": "2026-10-06T18:53:05.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
