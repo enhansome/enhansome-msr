@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7273,
+            "stars": 7274,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1002,
+            "stars": 1003,
             "topics": [
               "defects4j",
               "java",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-07T19:12:25Z",
+            "last_commit": "2026-10-08T18:05:02Z",
             "open_issues": 13,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:18:28.729Z",
+    "last_updated": "2026-10-08T19:15:05.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
