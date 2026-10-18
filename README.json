@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7285,
+            "stars": 7287,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1005,
+            "stars": 1004,
             "topics": [
               "defects4j",
               "java",
@@ -69,7 +69,7 @@
             "id": 49774035,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T10:23:52Z",
+            "last_commit": "2026-10-17T20:20:45Z",
             "open_issues": 16,
             "owner": "cscout-project",
             "repo": "cscout-engine",
@@ -211,7 +211,7 @@
             "open_issues": 8,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 972,
+            "stars": 973,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-17T13:39:43Z",
+            "last_commit": "2026-10-18T15:42:52Z",
             "open_issues": 12,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -263,7 +263,7 @@
             "open_issues": 41,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "data-fetching",
               "data-mining",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:19:52.649Z",
+    "last_updated": "2026-10-18T16:29:00.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
