@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1005,
+            "stars": 1006,
             "topics": [
               "defects4j",
               "java",
@@ -69,7 +69,7 @@
             "id": 49774035,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T09:34:35Z",
+            "last_commit": "2026-10-22T12:08:24Z",
             "open_issues": 17,
             "owner": "cscout-project",
             "repo": "cscout-engine",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-21T17:58:46Z",
+            "last_commit": "2026-10-22T17:47:27Z",
             "open_issues": 13,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:59:00.297Z",
+    "last_updated": "2026-10-22T17:56:18.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
