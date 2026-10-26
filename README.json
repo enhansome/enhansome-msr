@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1006,
+            "stars": 1007,
             "topics": [
               "defects4j",
               "java",
@@ -211,7 +211,7 @@
             "open_issues": 9,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-25T13:25:34Z",
+            "last_commit": "2026-10-26T12:23:47Z",
             "open_issues": 14,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -259,8 +259,8 @@
             "id": 47415120,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T09:12:05Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-26T04:05:21Z",
+            "open_issues": 44,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
             "stars": 327,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:02:01.471Z",
+    "last_updated": "2026-10-26T19:12:27.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
