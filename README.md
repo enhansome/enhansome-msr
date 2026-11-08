@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,047 | 🐛 103 | 📅 2026-09-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,728 | 🐛 103 | 📅 2026-09-02.
 
 ## Contents
 
@@ -34,7 +34,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,311 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,312 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 1,011 | 🐛 57 | 🌐 Perl | 📅 2026-04-07 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
 * [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 234 | 🐛 16 | 🌐 C++ | 📅 2026-11-07.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -113,4 +113,4 @@ To the extent possible under law, [Diomidis Spinellis](http://www.spinellis.gr) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
