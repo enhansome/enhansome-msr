@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7312,
+            "stars": 7315,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "defects4j",
               "java",
@@ -73,7 +73,7 @@
             "open_issues": 16,
             "owner": "cscout-project",
             "repo": "cscout-engine",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "c",
               "c-preprocessor",
@@ -236,8 +236,8 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-07T21:22:09Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-08T20:05:06Z",
+            "open_issues": 14,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 516,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:18:42.161Z",
+    "last_updated": "2026-11-09T22:57:35.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
