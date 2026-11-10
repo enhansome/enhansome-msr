@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7315,
+            "stars": 7317,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1012,
+            "stars": 1013,
             "topics": [
               "defects4j",
               "java",
@@ -211,7 +211,7 @@
             "open_issues": 9,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 974,
+            "stars": 977,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-08T20:05:06Z",
+            "last_commit": "2026-11-10T13:06:26Z",
             "open_issues": 14,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -263,7 +263,7 @@
             "open_issues": 42,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "data-fetching",
               "data-mining",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:57:35.627Z",
+    "last_updated": "2026-11-10T20:25:44.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
