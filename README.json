@@ -48,7 +48,7 @@
             "open_issues": 57,
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 1013,
+            "stars": 1014,
             "topics": [
               "defects4j",
               "java",
@@ -236,8 +236,8 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:19:16Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-12T20:10:10Z",
+            "open_issues": 15,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 516,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T20:09:03.037Z",
+    "last_updated": "2026-11-12T20:45:28.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
