@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,843 | 🐛 104 | 📅 2026-09-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,397 | 🐛 104 | 📅 2026-09-02.
 
 ## Contents
 
@@ -113,4 +113,4 @@ To the extent possible under law, [Diomidis Spinellis](http://www.spinellis.gr) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
