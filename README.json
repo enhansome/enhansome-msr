@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7320,
+            "stars": 7323,
             "topics": [
               "bell-labs",
               "berkeley",
@@ -211,7 +211,7 @@
             "open_issues": 9,
             "owner": "ishepard",
             "repo": "pydriller",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "git",
               "mining-software-repositories",
@@ -236,7 +236,7 @@
             "id": 43368199,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-16T22:47:15Z",
+            "last_commit": "2026-11-17T19:17:34Z",
             "open_issues": 17,
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:50:55.070Z",
+    "last_updated": "2026-11-17T21:43:26.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
