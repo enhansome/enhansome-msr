@@ -259,8 +259,8 @@
             "id": 47415120,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T14:33:04Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-18T19:07:04Z",
+            "open_issues": 43,
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
             "stars": 330,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:43:26.245Z",
+    "last_updated": "2026-11-18T21:21:08.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated repository of software engineering repository mining data sets",
